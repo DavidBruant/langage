@@ -16,11 +16,12 @@ Ce qui est décrit ici est une discipline personnelle que je documente au cas o�
 
 ## Règles
 
-- [J'essaye de ne plus dire "je n'ai pas le temps"](./pas-le-temps.md)
+- [J'essaye de ne plus dire "je n'ai pas le temps"](./règles/pas-le-temps.md)
+- [J'essaye de ne plus utiliser le mode grammatical impératif](./règles/impératif.md)
+
 - Formulations impersonnées
   - "il faut"
   - "L'idée est que" 
-- mode impératif
 - Généralités
 
 - urgent
